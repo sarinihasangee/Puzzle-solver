@@ -1,9 +1,3 @@
-/*
- * Student Name: Gamage Sarini Hasangee
- * IIT No: 20221215
- * UoW No: w1998761
- * */
-
 public class Graph {
     // Private fields to store the nodes, start, and finish nodes of the graph
     private Node[][] node;
