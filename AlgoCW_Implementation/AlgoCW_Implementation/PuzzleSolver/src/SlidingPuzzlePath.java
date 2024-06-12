@@ -1,9 +1,3 @@
-/*
- * Student Name: Gamage Sarini Hasangee
- * IIT No: 20221215
- * UoW No: w1998761
- * */
-
 import java.util.*;
 
 public class SlidingPuzzlePath {
