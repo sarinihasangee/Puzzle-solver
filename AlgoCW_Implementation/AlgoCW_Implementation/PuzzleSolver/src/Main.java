@@ -10,7 +10,7 @@ public class Main {
             System.out.println(" ");
 
             //Read the map from the input file using the MapParser
-            MapParser parser = new MapParser("C:\\\\Users\\\\ASUS\\\\Desktop\\\\AlgoViva\\\\w1998761_20221215_AlgoCW_Implementation\\\\w1998761_AlgoCW_Implementation\\\\PuzzleSolver\\\\src\\\\slidingPuzzle.txt");
+            MapParser parser = new MapParser("C:\\\\Users\\\\Desktop\\\\AlgoCW_Implementation\\\\AlgoCW_Implementation\\\\PuzzleSolver\\\\src\\\\slidingPuzzle.txt");
             char[][] map = parser.getMap();
             MapParser.Point start = parser.getStart();
             MapParser.Point finish = parser.getFinish();
