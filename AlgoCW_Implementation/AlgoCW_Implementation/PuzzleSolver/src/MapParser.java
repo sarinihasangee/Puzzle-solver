@@ -1,9 +1,3 @@
-/*
- * Student Name: Gamage Sarini Hasangee
- * IIT No: 20221215
- * UoW No: w1998761
- * */
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
